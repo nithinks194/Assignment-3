@@ -13,6 +13,6 @@
 
     Analysis Using Line/Scatter Plot
 
-  * Dash Board Creation
+* Dash Board Creation
   
 
